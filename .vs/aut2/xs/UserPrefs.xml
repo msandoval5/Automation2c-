@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{46A394E9-05EE-4E5F-A5C3-77168390CD56}|Default">
+  <MonoDevelop.Ide.ItemProperties.aut2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aut2/ConfigClass.cs">
+    <Files>
+      <File FileName="aut2/TestElements.cs" Line="30" Column="1" />
+      <File FileName="aut2/ConfigClass.cs" Line="6" Column="3" />
+      <File FileName="aut2/Program.cs" Line="19" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aut2" expanded="True">
+            <Node name="aut2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="ConfigClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
